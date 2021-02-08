@@ -1,0 +1,30 @@
+_repo: Kurgast-Aufzeichnungen-von-einer-Badener-Kur_64449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hesse, Hermann
+    aliases:
+    - Sinclair, Emil
+    - Lauscher, Hermann
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '941'
+    url: http://www.gutenberg.org/2009/agents/941
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Hermann_Hesse
+    - http://en.wikipedia.org/wiki/Hermann_Hesse
+description: ''
+gutenberg_issued: '2021-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64449'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kurgast
+
+  Aufzeichnungen von einer Badener Kur'
+url: http://www.gutenberg.org/ebooks/64449
